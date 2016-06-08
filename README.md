@@ -7,6 +7,7 @@
 [工厂模式](https://github.com/XINCGer/DesignPattern/tree/master/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)  
 [抽象工厂模式](https://github.com/XINCGer/DesignPattern/tree/master/%E6%8A%BD%E8%B1%A1%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)  
 [建造者模式](https://github.com/XINCGer/DesignPattern/tree/master/%E5%BB%BA%E9%80%A0%E8%80%85%E6%A8%A1%E5%BC%8F)  
+[模版方法模式](https://github.com/XINCGer/DesignPattern/tree/master/%E6%A8%A1%E7%89%88%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F)
 
 ##设计模式的六大原则  
 
