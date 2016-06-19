@@ -11,7 +11,8 @@
 [适配器模式](https://github.com/XINCGer/DesignPattern/tree/master/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F)  
 [外观模式](https://github.com/XINCGer/DesignPattern/tree/master/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F)  
 [装饰器模式](https://github.com/XINCGer/DesignPattern/tree/master/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F)  
-[观察者模式](https://github.com/XINCGer/DesignPattern/tree/master/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)
+[观察者模式](https://github.com/XINCGer/DesignPattern/tree/master/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)  
+[策略模式](https://github.com/XINCGer/DesignPattern/tree/master/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F)
 
 ##设计模式的六大原则  
 
