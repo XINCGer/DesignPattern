@@ -1,7 +1,9 @@
 # DesignPattern
 汇智网的设计模式教程练习代码
 
-##说明  
+## [【新】Unity常用设计模式总结](https://github.com/XINCGer/Unity3DTraining/tree/master/DesignPatterns)
+
+### 说明  
 [教程地址](http://www.hubwiz.com/course/5710cb2e08ce8b3d3a1430f1/)  
 [单例模式](https://github.com/XINCGer/DesignPattern/tree/master/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F(Singleton))  
 [工厂模式](https://github.com/XINCGer/DesignPattern/tree/master/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)  
@@ -14,7 +16,7 @@
 [观察者模式](https://github.com/XINCGer/DesignPattern/tree/master/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)  
 [策略模式](https://github.com/XINCGer/DesignPattern/tree/master/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F)
 
-##设计模式的六大原则  
+### 设计模式的六大原则  
 
 > 1 开闭原则
 
@@ -30,7 +32,7 @@
 
 > 4 依赖倒置原则
 
-高层模块不应该依赖低层模块，二者都应该依赖其抽象；抽象不应该依赖细节；细节应该依赖抽象。通俗的说：多用抽象的接口来描述相同的动作，降低实现这个动作的人和物之间的耦合度。
+高层模块不应该依赖低层模块，二者都应该依赖其抽象；抽象不应该依赖细节，细节应该依赖抽象。通俗的说：多用抽象的接口来描述相同的动作，降低实现这个动作的人和物之间的耦合度。
 
 > 5 接口隔离原则
 
